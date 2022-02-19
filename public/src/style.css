@@ -1,0 +1,65 @@
+body{
+    background-color: burlywood;
+}.my{
+    text-align: center;
+    color:purple;
+  }
+  #bios{
+    color : purple;
+    text-align: center;
+  }
+  .img{
+      border-radius: 50%;
+  }
+  @media only screen and(max-width:600px){
+    .img{
+        border-radius: 50%;
+    }}
+  .name{
+      color: purple;
+  }
+  #a{
+      color: blue;
+      font-style: italic;
+  }
+  .intro, .intro1, .intro2, .intro3, .intro4{
+      color:purple;
+  }
+  #b{
+      color: purple;
+    }
+  #lan{
+      color: purple;
+  }
+  .info{
+      color: blue;
+      font-style: italic;
+  }
+  #img{
+      border-radius: 30%;
+      height: 200px;
+      width: 200px;
+    }
+  @media only screen and(max-width:600px){
+      #img{
+        border-radius: 30%;
+        height: 200px;
+        width: 200px;
+      }}
+  .ft{
+    border-top-right-radius: 50%;
+    height: 200px;
+    width: 200px;
+  }
+  @media only screen and(max-width:600px){
+    .ft{
+        height: 200px;
+        width: 200px;
+    }}
+  .proj{
+      color: purple;
+  }
+  .b{
+      text-align: center;
+      color:purple;
+  }
